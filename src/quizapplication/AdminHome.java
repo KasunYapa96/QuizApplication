@@ -5,10 +5,6 @@
  */
 package quizapplication;
 
-/**
- *
- * @author Don Liyanage
- */
 public class AdminHome extends javax.swing.JFrame {
 
     /**
